@@ -8,7 +8,8 @@ and copy the password or the 2FA code from the items.
 
 ![](docs/default.png)
 
-By default it copies the password but if you need more actions you can use the alternative actions key (Default is  <kbd>Alt</kbd>) 
+By default it copies the password but if you need more actions you can use the alternative actions key  
+(Default is  <kbd>Alt</kbd>) 
 
 ![](docs/extra-actions.png)
 ## Authentication
